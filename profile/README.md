@@ -5,7 +5,7 @@ Cool little things I've built because I needed them for my projects, and maybe s
 
 ## Miniskin
 
-It started as a simple pre-processor to handle <%% include: file %%> and grew into a full workflow tool. Today, it allows me to work directly on a "touchable" mockup that is pre-processed into the final Go template used by the backend, ensuring no design work is lost in transition. I later discovered this is known as Design-Driven Programming ( wow that sound great 😂 ) 
+It started as a simple pre-processor to handle `<%% include: file %%>` and grew into a full workflow tool. Today, it allows me to work directly on a "touchable" mockup that is pre-processed into the final Go template used by the backend, ensuring no design work is lost in transition. I later discovered this is known as Design-Driven Programming ( wow that sound great 😂 ) 
 
 
 
